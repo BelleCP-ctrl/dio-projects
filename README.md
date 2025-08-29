@@ -8,10 +8,10 @@ Cada projeto tem seu próprio repositório, mas aqui você encontra todos reunid
 ## 📂 Lista de Projetos
 
 ### ✅ Concluídos
-- [Desafio 1 - Azure Speech & Language](https://github.com/seu-usuario/dio-azure-speech-language)  
+- [Desafio 1 - Azure Speech & Language]()  
   _Prática com o Azure Speech Studio e Language Studio, explorando análise de fala e linguagem natural._  
 
-- [Desafio 2 - Contribuição Open Source](https://github.com/seu-usuario/dio-lab-open-source-contrib)  
+- [Desafio 2 - Contribuição Open Source](https://github.com/BelleCP-ctrl/dio-lab-open-source.git)  
   _Contribuição para repositório open source da DIO com perfil de participante e sugestões de melhorias._  
 
 ### ⏳ Em andamento
